@@ -1,0 +1,4 @@
+1.This is the old version i just copy it to memorize
+2.For Windows there are some mistakes
+3.download in china
+pip install gradio -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
